@@ -7,8 +7,8 @@
     - MiMCSponge(x2,y2) = pub2
 */
 
-include "../libs/circomlib/circuits/mimcsponge.circom";
-include "../libs/circomlib/circuits/comparators.circom";
+include "../circomlib/circuits/mimcsponge.circom";
+include "../circomlib/circuits/comparators.circom";
 include "./range_proof.circom";
 include "./perlin.circom";
 

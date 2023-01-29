@@ -1,4 +1,4 @@
-include "../libs/circomlib/circuits/mimcsponge.circom";
+include "../circomlib/circuits/mimcsponge.circom";
 
 template Whitelist() {
   signal input key;

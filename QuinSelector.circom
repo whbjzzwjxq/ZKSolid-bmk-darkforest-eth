@@ -1,7 +1,7 @@
 pragma circom 2.0.3;
 
 include "./CalculateTotal.circom";
-include "../libs/circomlib/circuits/comparators.circom";
+include "../circomlib/circuits/comparators.circom";
 
 template QuinSelector(choices) {
     signal input in[choices];

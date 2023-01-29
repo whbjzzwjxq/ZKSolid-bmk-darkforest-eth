@@ -1,6 +1,6 @@
 pragma circom 2.0.3;
-include "../libs/circomlib/circuits/comparators.circom";
-include "../libs/circomlib/circuits/bitify.circom";
+include "../circomlib/circuits/comparators.circom";
+include "../circomlib/circuits/bitify.circom";
 
 
 // NB: RangeProof is inclusive.

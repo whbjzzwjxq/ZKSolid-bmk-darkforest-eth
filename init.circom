@@ -5,9 +5,9 @@
     - MiMCSponge(x,y) = pub
 */
 
-include "../libs/circomlib/circuits/mimcsponge.circom";
-include "../libs/circomlib/circuits/comparators.circom";
-include "../libs/circomlib/circuits/bitify.circom";
+include "../circomlib/circuits/mimcsponge.circom";
+include "../circomlib/circuits/comparators.circom";
+include "../circomlib/circuits/bitify.circom";
 include "./range_proof.circom";
 include "./perlin.circom";
 
