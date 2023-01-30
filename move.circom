@@ -1,3 +1,5 @@
+pragma circom 2.0.3;
+
 /*
     Prove: I know (x1,y1,x2,y2,p2,r2,distMax) such that:
     - x2^2 + y2^2 <= r^2

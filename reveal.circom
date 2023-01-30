@@ -3,6 +3,7 @@
     - MiMCSponge(x,y) = pub
     - perlin(x, y) = perl
 */
+pragma circom 2.0.3;
 
 include "../circomlib/circuits/mimcsponge.circom";
 include "../circomlib/circuits/comparators.circom";

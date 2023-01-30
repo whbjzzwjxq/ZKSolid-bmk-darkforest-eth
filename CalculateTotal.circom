@@ -1,3 +1,5 @@
+pragma circom 2.0.3;
+
 template CalculateTotal(n) {
     signal input in[n];
     signal output out;

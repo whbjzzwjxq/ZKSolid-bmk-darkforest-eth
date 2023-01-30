@@ -1,3 +1,5 @@
+pragma circom 2.0.3;
+
 /*
     Prove: I know (x,y) such that:
     - x^2 + y^2 <= r^2

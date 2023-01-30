@@ -1,3 +1,5 @@
+pragma circom 2.0.3;
+
 include "../circomlib/circuits/mimcsponge.circom";
 
 template Whitelist() {
